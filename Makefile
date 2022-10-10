@@ -1,5 +1,2 @@
-build:
-	cd wundergraph && yarn
-
 run:
-	 cd .. && ./main
+	cd wundergraph && yarn && cd ../ && ./main
