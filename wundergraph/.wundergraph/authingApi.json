@@ -1,0 +1,116 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Authing 开放 API copy",
+    "description": "",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://echo.hoppscotch.io"
+    }
+  ],
+  "tags": [],
+  "paths": {
+    "/getResp": {
+      "get": {
+        "summary": "测试",
+        "x-apifox-folder": "",
+        "x-apifox-status": "developing",
+        "deprecated": false,
+        "description": "",
+        "tags": [],
+        "parameters": [
+          {
+            "name": "p1",
+            "in": "query",
+            "description": "",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "p2",
+            "in": "query",
+            "description": "",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "p3",
+            "in": "query",
+            "description": "",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "成功",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "args": {
+                      "type": "object",
+                      "properties": {
+                        "p1": {
+                          "type": "string"
+                        },
+                        "p2": {
+                          "type": "string"
+                        },
+                        "p3": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "p1",
+                        "p2",
+                        "p3"
+                      ],
+                      "x-apifox-orders": [
+                        "p1",
+                        "p2",
+                        "p3"
+                      ],
+                      "x-apifox-ignore-properties": []
+                    }
+                  },
+                  "required": [
+                    "args"
+                  ],
+                  "x-apifox-orders": [
+                    "args"
+                  ],
+                  "x-apifox-ignore-properties": []
+                },
+                "examples": {
+                  "1": {
+                    "summary": "成功示例 ",
+                    "value": {
+                      "args": {
+                        "p1": "",
+                        "p2": "",
+                        "p3": ""
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {}
+  }
+}

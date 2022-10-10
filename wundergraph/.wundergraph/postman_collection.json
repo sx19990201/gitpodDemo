@@ -1,0 +1,45 @@
+{
+	"info": {
+		"_postman_id": "3c2579bc-9305-432a-8896-fa4605301e2d",
+		"name": "测试",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "10051225"
+	},
+	"item": [
+		{
+			"name": "https://core.authing.cn/api/v2/connections/social/wechat/access-token?wxid=wxb8814c7abc4747c4&wxsecret=1e362d952117a8d334d3f38c3f807a3e",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://core.authing.cn/api/v2/connections/social/wechat/access-token?wxid=wxb8814c7abc4747c4&wxsecret=1e362d952117a8d334d3f38c3f807a3e",
+					"protocol": "https",
+					"host": [
+						"core",
+						"authing",
+						"cn"
+					],
+					"path": [
+						"api",
+						"v2",
+						"connections",
+						"social",
+						"wechat",
+						"access-token"
+					],
+					"query": [
+						{
+							"key": "wxid",
+							"value": "wxb8814c7abc4747c4"
+						},
+						{
+							"key": "wxsecret",
+							"value": "1e362d952117a8d334d3f38c3f807a3e"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

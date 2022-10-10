@@ -1,0 +1,1 @@
+{"signInMethods":{"sms":"secondary","email":"disabled","social":"secondary","username":"primary"},"socialSignInConnectorTargets":[],"socials":[{"name":"支付宝","logo":"www.baidu.com","platform":"alipay"},{"name":"github","logo":"www.baidu.com","platform":"github"}],"signInMode":"SignInAndRegister"}

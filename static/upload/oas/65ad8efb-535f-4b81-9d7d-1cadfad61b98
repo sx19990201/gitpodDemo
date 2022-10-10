@@ -1,0 +1,79 @@
+{
+	"info": {
+		"_postman_id": "2a80bb68-225a-4995-a855-c6d8cba91df2",
+		"name": "Wundergraph Copy",
+		"description": "Your Wundergraph collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "10051225"
+	},
+	"item": [
+		{
+			"name": "Queries",
+			"item": [
+				{
+					"name": "U",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"url": {
+							"raw": "{{apiBaseUrl}}/app/main/operations/U",
+							"host": [
+								"{{apiBaseUrl}}"
+							],
+							"path": [
+								"app",
+								"main",
+								"operations",
+								"U"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Users",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"url": {
+							"raw": "{{apiBaseUrl}}/app/main/operations/Users",
+							"host": [
+								"{{apiBaseUrl}}"
+							],
+							"path": [
+								"app",
+								"main",
+								"operations",
+								"Users"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"description": "All your query operations"
+		},
+		{
+			"name": "Mutations",
+			"item": [],
+			"description": "All your mutation operations"
+		}
+	],
+	"variable": [
+		{
+			"key": "apiBaseUrl",
+			"value": "http://localhost:9991",
+			"type": "string"
+		}
+	]
+}

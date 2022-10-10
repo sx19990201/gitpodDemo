@@ -1,0 +1,10 @@
+mutation ($id: Int)@rbac(requireMatchAll: [superadmin]){
+  RemoveBlodById: oauthDB_deleteOneBlogs(
+    where: {id:$id}
+  ){
+    id
+    title
+    content
+    types
+  }
+}

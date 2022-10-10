@@ -1,0 +1,12 @@
+mutation(
+  $title:String
+  $content:String
+  $types:Int
+){
+  CreateOneBlog:oauthDB_createOneBlogs(data:{title:$title,content:$content,types:$types}){
+    id
+    title
+    content
+    types
+  }
+}

@@ -1,0 +1,896 @@
+{"time":"2022-09-29 14:48:37","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-29 14:48:37","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-29 14:48:41","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-09-29 14:50:56","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-29 14:50:56","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-29 14:51:01","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-09-29 14:53:26","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-29 14:53:26","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-29 14:53:30","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-09-29 15:00:58","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-29 15:00:58","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-29 15:01:04","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-09-29 15:01:40","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-29 15:01:40","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-29 15:01:45","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-09-29 16:27:37","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-29 16:27:37","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-29 16:27:42","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-09-29 16:27:42","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-29 16:27:42","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-09-29 16:27:42","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-09-29 16:27:42","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-29 16:27:42","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-09-29 16:27:42","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-09-29 16:27:42","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-09-29 16:27:42","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-09-29 16:27:42","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-09-29 16:27:42","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-29 16:27:42","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-09-29 16:27:43","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-09-29 16:27:43","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-09-29 16:27:43","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-09-29 16:27:43","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-09-29 16:27:43","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-29 16:27:43","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-09-30 09:20:50","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-30 09:20:50","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-30 09:20:56","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-09-30 09:23:58","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-30 09:23:58","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-30 09:24:03","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-09-30 11:22:51","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-30 11:22:51","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-30 11:22:56","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-09-30 11:28:27","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-30 11:28:27","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-30 11:28:32","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-09-30 11:28:32","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-09-30 11:28:32","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-09-30 11:28:32","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-09-30 11:28:32","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-09-30 11:28:32","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-09-30 11:28:32","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-09-30 11:28:32","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-09-30 11:28:32","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-09-30 11:28:32","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-09-30 11:28:32","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-30 11:28:32","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-09-30 11:29:00","level":"error","msg":"registerS3UploadClient","logType":""} 
+{"time":"2022-09-30 11:29:00","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-09-30 11:29:00","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-09-30 11:29:00","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-09-30 11:29:00","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-08 09:10:56","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 09:10:56","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 09:11:23","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 09:11:23","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 09:14:38","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 09:14:38","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 09:15:55","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 09:15:55","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 09:15:55","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-08 09:15:55","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 09:15:55","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 09:15:55","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-08 09:15:55","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-08 09:15:55","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-08 09:15:55","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-08 09:15:55","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-08 09:15:55","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 09:15:55","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-08 09:15:56","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-08 09:15:56","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-08 09:15:56","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-08 09:15:56","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-08 09:15:57","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 09:15:57","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-08 09:19:56","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 09:19:56","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 09:20:00","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 09:20:00","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 09:20:00","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-08 09:20:00","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 09:20:04","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-08 09:20:04","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 09:20:04","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-08 09:20:04","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-08 09:20:04","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-08 09:20:04","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-08 09:20:04","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 09:20:04","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-08 09:20:05","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 16:13:03","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 16:13:03","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 16:14:23","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 16:14:23","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 16:14:23","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-08 16:14:23","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 16:14:23","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-08 16:14:23","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 16:14:24","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-08 16:14:24","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-08 16:14:24","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-08 16:14:24","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-08 16:14:24","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 16:14:24","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-08 16:14:24","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-08 16:14:24","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-08 16:14:24","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-08 16:14:24","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-08 16:14:24","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 16:14:24","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-08 16:14:25","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 16:14:25","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 16:14:25","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-08 16:14:25","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-08 16:14:25","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 16:14:25","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-08 16:14:25","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-08 16:14:25","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 20:11:25","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 20:11:25","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 20:11:32","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 20:11:32","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 20:11:32","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-08 20:11:32","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 20:11:32","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-08 20:11:32","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 20:11:32","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-08 20:11:32","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-08 20:11:32","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-08 20:11:32","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-08 20:11:33","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 20:12:27","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 20:12:27","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 20:13:49","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 20:13:49","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 20:15:08","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-08 20:31:57","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 20:31:57","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 20:33:32","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 20:33:32","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 20:34:46","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 20:34:46","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 20:36:07","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 20:36:07","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 20:36:07","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-08 20:36:07","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 20:36:07","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-08 20:36:07","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 20:36:07","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-08 20:36:07","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-08 20:36:07","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-08 20:36:07","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-08 20:36:07","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 20:36:07","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-08 20:36:08","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:02:13","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:02:13","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:03:22","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:03:22","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 21:03:32","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-08 21:03:34","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:03:34","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-08 21:03:34","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 21:03:34","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-08 21:03:34","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-08 21:03:34","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:03:34","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-08 21:03:34","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:06:15","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:06:15","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:08:10","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:08:10","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:09:03","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:09:03","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:09:19","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-08 21:09:34","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:10:30","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:10:30","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-08 21:11:49","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:14:20","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:14:20","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:15:15","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:15:15","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:17:19","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:17:19","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:18:36","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-08 21:18:37","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:18:38","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-08 21:18:38","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-08 21:18:38","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-08 21:18:38","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-08 21:18:38","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 21:18:38","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-08 21:24:09","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:24:09","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-08 21:24:16","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:28:38","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:28:38","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-08 21:28:44","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-09 10:27:41","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 10:27:41","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-09 10:29:01","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:12:29","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 11:12:29","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 11:12:48","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 11:12:48","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 11:12:48","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 11:12:48","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:12:48","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 11:12:48","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 11:12:48","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 11:12:48","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 11:12:48","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 11:12:48","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 11:12:48","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 11:12:48","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-09 11:12:49","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:14:26","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 11:14:26","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"register S3 provider","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"register S3 endpoint","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 11:15:48","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 11:15:49","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:15:49","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 11:15:49","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-09 11:15:49","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-09 11:15:49","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:15:49","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-09 11:15:49","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-09 11:15:49","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:18:11","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 11:18:11","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 11:18:52","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 11:18:53","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 11:18:53","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 11:18:53","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:18:53","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 11:18:53","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-09 11:18:53","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-09 11:18:53","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:18:53","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-09 11:18:53","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-09 11:18:53","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:21:19","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 11:21:19","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 11:21:43","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 11:21:43","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 11:21:43","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 11:21:43","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:21:43","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 11:21:43","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 11:21:43","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 11:21:43","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 11:21:43","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-09 11:21:44","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:29:50","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 11:29:50","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 11:31:12","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 11:31:13","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:31:13","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 11:31:13","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-09 11:31:13","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-09 11:31:13","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:31:13","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-09 11:31:13","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-09 11:31:13","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:35:46","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 11:35:46","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 11:36:07","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 11:36:07","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 11:37:59","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 11:38:00","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:38:00","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 11:38:00","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-09 11:38:00","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-09 11:38:00","level":"error","msg":"Error during WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 11:38:00","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-09 11:38:00","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-09 11:38:00","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 14:29:04","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 14:29:04","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 14:29:08","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 14:33:51","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 14:33:51","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 14:35:11","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 14:35:11","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 14:35:11","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 14:35:11","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 14:35:11","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 14:35:11","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 14:35:11","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 14:35:11","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 14:35:11","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 14:35:12","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 14:35:12","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 14:35:12","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 14:35:12","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 14:35:12","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 14:35:12","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 14:35:12","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 16:27:18","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 16:27:18","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 16:27:32","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 16:27:32","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 16:27:32","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 16:27:32","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 16:27:32","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 16:27:32","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 16:27:32","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 16:27:32","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 16:27:32","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 16:27:32","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 16:27:32","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 16:27:32","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 16:27:33","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 16:27:33","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 16:27:33","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-09 16:27:33","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-09 16:27:33","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-09 16:27:33","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 16:27:34","level":"debug","msg":"api.configureCookieProvider","logType":""} 
+{"time":"2022-10-09 16:27:34","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 16:27:34","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 16:27:34","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 16:27:34","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 16:27:51","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 16:27:51","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 16:29:11","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 16:29:11","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 16:29:11","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 16:29:11","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 16:29:11","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 16:29:11","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 16:29:11","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 16:29:11","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 16:29:11","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 16:29:11","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 16:29:11","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 16:29:11","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 16:29:12","level":"debug","msg":"api.configureCookieProvider","logType":""} 
+{"time":"2022-10-09 16:29:12","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 16:29:12","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 16:29:12","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 16:29:12","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 16:31:14","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 16:31:14","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"api.configureCookieProvider","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 16:32:35","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 16:32:36","level":"error","msg":"Hook server excited. Initialize WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 16:32:36","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 16:32:36","level":"info","msg":"Context was canceled. Initialize WunderNode shutdown ....","logType":""} 
+{"time":"2022-10-09 16:32:36","level":"info","msg":"Graceful shutdown WunderNode ...","logType":""} 
+{"time":"2022-10-09 16:32:36","level":"debug","msg":"listener closed","logType":""} 
+{"time":"2022-10-09 16:32:36","level":"info","msg":"9991 and 9992 WunderNode shutdown complete","logType":""} 
+{"time":"2022-10-09 16:32:36","level":"debug","msg":"Stopping hooks-server-runner server after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 16:33:10","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 16:33:10","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"api.configureCookieProvider","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 16:34:31","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 16:34:32","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 16:34:32","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 16:46:01","level":"debug","msg":"database.Source.Execute","logType":""} 
+{"time":"2022-10-09 16:46:51","level":"debug","msg":"database.Source.Execute.Error","logType":""} 
+{"time":"2022-10-09 16:46:51","level":"debug","msg":"database.Source.Execute.Deadline Exceeded","logType":""} 
+{"time":"2022-10-09 16:46:51","level":"error","msg":"ResolveGraphQLResponse","logType":""} 
+{"time":"2022-10-09 17:01:23","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 17:01:23","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 17:02:49","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 17:02:49","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 17:04:11","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 17:04:11","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 17:04:11","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 17:04:11","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 17:04:11","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 17:04:11","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 17:04:11","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 17:04:11","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 17:04:11","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 17:04:11","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 17:04:11","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 17:04:11","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 17:04:12","level":"debug","msg":"api.configureCookieProvider","logType":""} 
+{"time":"2022-10-09 17:04:12","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 17:04:12","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 17:04:12","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 17:04:12","level":"info","msg":"listening on","logType":""} 
+{"time":"2022-10-09 17:12:09","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 17:12:09","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 17:12:16","level":"debug","msg":"Script runner is done","logType":""} 
+{"time":"2022-10-09 17:12:16","level":"debug","msg":"Initial Build successful","logType":""} 
+{"time":"2022-10-09 17:12:16","level":"debug","msg":"Config built!","logType":""} 
+{"time":"2022-10-09 17:12:16","level":"debug","msg":"Stopping config-runner after WunderNode shutdown","logType":""} 
+{"time":"2022-10-09 17:12:16","level":"info","msg":"Api config: file polling","logType":""} 
+{"time":"2022-10-09 17:12:16","level":"debug","msg":"Start runner","logType":""} 
+{"time":"2022-10-09 17:12:16","level":"debug","msg":"Updated config -\u003e (re-)configuring server","logType":""} 
+{"time":"2022-10-09 17:12:16","level":"debug","msg":"http.Client.Transport","logType":""} 
+{"time":"2022-10-09 17:12:16","level":"debug","msg":"configureCache","logType":""} 
+{"time":"2022-10-09 17:12:17","level":"debug","msg":"create sub router","logType":""} 
+{"time":"2022-10-09 17:12:17","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 17:12:17","level":"debug","msg":"configuring CORS","logType":""} 
+{"time":"2022-10-09 17:12:17","level":"debug","msg":"api.configureCookieProvider","logType":""} 
+{"time":"2022-10-09 17:12:17","level":"debug","msg":"registered GraphQLHandler","logType":""} 
+{"time":"2022-10-09 17:12:17","level":"debug","msg":"registered GraphQLPlaygroundHandler","logType":""} 
+{"time":"2022-10-09 17:12:17","level":"debug","msg":"configuring API","logType":""} 
+{"time":"2022-10-09 17:12:17","level":"info","msg":"listening on","logType":""} 

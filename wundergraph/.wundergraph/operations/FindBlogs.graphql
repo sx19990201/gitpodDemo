@@ -1,0 +1,8 @@
+{
+  FindBlogs:oauthDB_findManyBlogs {
+    id
+    title
+    content
+    types
+  }
+}

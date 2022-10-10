@@ -1,0 +1,683 @@
+database introspection failed: Error in connector: Error querying the database: Error querying the database: Error querying the database: unable to open database file: //root:shaoxiong123456@8.142.115.204:3306/blog1231
+Error: Error in connector: Error querying the database: Error querying the database: Error querying the database: unable to open database file: //root:shaoxiong123456@8.142.115.204:3306/blog1231
+Usage:
+  wunderctl introspect sqlite [flags]
+
+Examples:
+wunderctl introspect sqlite file:./dev.db
+
+Flags:
+  -h, --help   help for sqlite
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 1/5
+database introspection failed: Error in connector: Error querying the database: Error querying the database: Error querying the database: unable to open database file: //root:shaoxiong123456@8.142.115.204:3306/blog1231
+Error: Error in connector: Error querying the database: Error querying the database: Error querying the database: unable to open database file: //root:shaoxiong123456@8.142.115.204:3306/blog1231
+Usage:
+  wunderctl introspect sqlite [flags]
+
+Examples:
+wunderctl introspect sqlite file:./dev.db
+
+Flags:
+  -h, --help   help for sqlite
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 2/5
+database introspection failed: Error in connector: Error querying the database: Error querying the database: Error querying the database: unable to open database file: //root:shaoxiong123456@8.142.115.204:3306/blog1231
+Error: Error in connector: Error querying the database: Error querying the database: Error querying the database: unable to open database file: //root:shaoxiong123456@8.142.115.204:3306/blog1231
+Usage:
+  wunderctl introspect sqlite [flags]
+
+Examples:
+wunderctl introspect sqlite file:./dev.db
+
+Flags:
+  -h, --help   help for sqlite
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 3/5
+database introspection failed: Error in connector: Error querying the database: Error querying the database: Error querying the database: unable to open database file: //root:shaoxiong123456@8.142.115.204:3306/blog1231
+Error: Error in connector: Error querying the database: Error querying the database: Error querying the database: unable to open database file: //root:shaoxiong123456@8.142.115.204:3306/blog1231
+Usage:
+  wunderctl introspect sqlite [flags]
+
+Examples:
+wunderctl introspect sqlite file:./dev.db
+
+Flags:
+  -h, --help   help for sqlite
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 4/5
+database introspection failed: Error in connector: Error querying the database: Error querying the database: Error querying the database: unable to open database file: //root:shaoxiong123456@8.142.115.204:3306/blog1231
+Error: Error in connector: Error querying the database: Error querying the database: Error querying the database: unable to open database file: //root:shaoxiong123456@8.142.115.204:3306/blog1231
+Usage:
+  wunderctl introspect sqlite [flags]
+
+Examples:
+wunderctl introspect sqlite file:./dev.db
+
+Flags:
+  -h, --help   help for sqlite
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 5/5
+database introspection failed: Error in connector: Error querying the database: Error querying the database: Error querying the database: Server error: `ERROR HY000 (1129): Host '49.77.147.156' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts''
+Error: Error in connector: Error querying the database: Error querying the database: Error querying the database: Server error: `ERROR HY000 (1129): Host '49.77.147.156' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts''
+Usage:
+  wunderctl introspect mysql [flags]
+
+Examples:
+wunderctl introspect mysql mysql://user:password@localhost:5432/database
+
+Flags:
+  -h, --help   help for mysql
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 1/5
+database introspection failed: Error in connector: Error querying the database: Error querying the database: Error querying the database: Server error: `ERROR HY000 (1129): Host '49.77.147.156' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts''
+Error: Error in connector: Error querying the database: Error querying the database: Error querying the database: Server error: `ERROR HY000 (1129): Host '49.77.147.156' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts''
+Usage:
+  wunderctl introspect mysql [flags]
+
+Examples:
+wunderctl introspect mysql mysql://user:password@localhost:5432/database
+
+Flags:
+  -h, --help   help for mysql
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 2/5
+database introspection failed: Error in connector: Error querying the database: Error querying the database: Error querying the database: Server error: `ERROR HY000 (1129): Host '49.77.147.156' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts''
+Error: Error in connector: Error querying the database: Error querying the database: Error querying the database: Server error: `ERROR HY000 (1129): Host '49.77.147.156' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts''
+Usage:
+  wunderctl introspect mysql [flags]
+
+Examples:
+wunderctl introspect mysql mysql://user:password@localhost:5432/database
+
+Flags:
+  -h, --help   help for mysql
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 3/5
+database introspection failed: Error in connector: Error querying the database: Error querying the database: Error querying the database: Server error: `ERROR HY000 (1129): Host '49.77.147.156' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts''
+Error: Error in connector: Error querying the database: Error querying the database: Error querying the database: Server error: `ERROR HY000 (1129): Host '49.77.147.156' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts''
+Usage:
+  wunderctl introspect mysql [flags]
+
+Examples:
+wunderctl introspect mysql mysql://user:password@localhost:5432/database
+
+Flags:
+  -h, --help   help for mysql
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 4/5
+database introspection failed: Error in connector: Error querying the database: Error querying the database: Error querying the database: Server error: `ERROR HY000 (1129): Host '49.77.147.156' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts''
+Error: Error in connector: Error querying the database: Error querying the database: Error querying the database: Server error: `ERROR HY000 (1129): Host '49.77.147.156' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts''
+Usage:
+  wunderctl introspect mysql [flags]
+
+Examples:
+wunderctl introspect mysql mysql://user:password@localhost:5432/database
+
+Flags:
+  -h, --help   help for mysql
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 5/5
+database introspection failed: yarn run v1.22.18
+$ wunderctl introspect mongodb mongodb://root:shaoxiong123456@8.142.115.204:3306/blog1231 --outfile=generated\introspection\5db0acda56ff07636b2b8907485a0a0feb693a92.json
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+Could not find binary in C:\Users\PC\AppData\Local\Yarn\Data\global\node_modules\@wundergraph\wunderctl\download\wunderctl.exe.
+Ensure that you did not ignore post-install hooks.
+error Command failed with exit code 1.
+
+retrying database introspection 1/5
+database introspection failed: yarn run v1.22.18
+$ wunderctl introspect mongodb mongodb://root:shaoxiong123456@8.142.115.204:3306/blog1231 --outfile=generated\introspection\5db0acda56ff07636b2b8907485a0a0feb693a92.json
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+Could not find binary in C:\Users\PC\AppData\Local\Yarn\Data\global\node_modules\@wundergraph\wunderctl\download\wunderctl.exe.
+Ensure that you did not ignore post-install hooks.
+error Command failed with exit code 1.
+
+retrying database introspection 2/5
+database introspection failed: yarn run v1.22.18
+$ wunderctl introspect mongodb mongodb://root:shaoxiong123456@8.142.115.204:3306/blog1231 --outfile=generated\introspection\5db0acda56ff07636b2b8907485a0a0feb693a92.json
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+Could not find binary in C:\Users\PC\AppData\Local\Yarn\Data\global\node_modules\@wundergraph\wunderctl\download\wunderctl.exe.
+Ensure that you did not ignore post-install hooks.
+error Command failed with exit code 1.
+
+retrying database introspection 3/5
+database introspection failed: yarn run v1.22.18
+$ wunderctl introspect mongodb mongodb://root:shaoxiong123456@8.142.115.204:3306/blog1231 --outfile=generated\introspection\5db0acda56ff07636b2b8907485a0a0feb693a92.json
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+Could not find binary in C:\Users\PC\AppData\Local\Yarn\Data\global\node_modules\@wundergraph\wunderctl\download\wunderctl.exe.
+Ensure that you did not ignore post-install hooks.
+error Command failed with exit code 1.
+
+retrying database introspection 4/5
+database introspection failed: yarn run v1.22.18
+$ wunderctl introspect mongodb mongodb://root:shaoxiong123456@8.142.115.204:3306/blog1231 --outfile=generated\introspection\5db0acda56ff07636b2b8907485a0a0feb693a92.json
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+Could not find binary in C:\Users\PC\AppData\Local\Yarn\Data\global\node_modules\@wundergraph\wunderctl\download\wunderctl.exe.
+Ensure that you did not ignore post-install hooks.
+error Command failed with exit code 1.
+
+retrying database introspection 5/5
+database introspection failed: error: Error validating datasource `db`: the URL must start with the protocol `mysql://`.
+  -->  schema.prisma:3
+   | 
+ 2 | 			provider = "mysql"
+ 3 | 			url      = "planetscale://root:shaoxiong123456@8.142.115.204:3306/blog1231?sslaccept=strict"
+   | 
+
+Error: error: Error validating datasource `db`: the URL must start with the protocol `mysql://`.
+  -->  schema.prisma:3
+   | 
+ 2 | 			provider = "mysql"
+ 3 | 			url      = "planetscale://root:shaoxiong123456@8.142.115.204:3306/blog1231?sslaccept=strict"
+   | 
+
+Usage:
+  wunderctl introspect planetscale [flags]
+
+Examples:
+wunderctl introspect planetscale mysql://xxx:pscale_pw_xxx@fwsbiox1njhc.eu-west-3.psdb.cloud/test?sslaccept=strict
+
+Flags:
+  -h, --help   help for planetscale
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 1/5
+database introspection failed: error: Error validating datasource `db`: the URL must start with the protocol `mysql://`.
+  -->  schema.prisma:3
+   | 
+ 2 | 			provider = "mysql"
+ 3 | 			url      = "planetscale://root:shaoxiong123456@8.142.115.204:3306/blog1231?sslaccept=strict"
+   | 
+
+Error: error: Error validating datasource `db`: the URL must start with the protocol `mysql://`.
+  -->  schema.prisma:3
+   | 
+ 2 | 			provider = "mysql"
+ 3 | 			url      = "planetscale://root:shaoxiong123456@8.142.115.204:3306/blog1231?sslaccept=strict"
+   | 
+
+Usage:
+  wunderctl introspect planetscale [flags]
+
+Examples:
+wunderctl introspect planetscale mysql://xxx:pscale_pw_xxx@fwsbiox1njhc.eu-west-3.psdb.cloud/test?sslaccept=strict
+
+Flags:
+  -h, --help   help for planetscale
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 2/5
+database introspection failed: error: Error validating datasource `db`: the URL must start with the protocol `mysql://`.
+  -->  schema.prisma:3
+   | 
+ 2 | 			provider = "mysql"
+ 3 | 			url      = "planetscale://root:shaoxiong123456@8.142.115.204:3306/blog1231?sslaccept=strict"
+   | 
+
+Error: error: Error validating datasource `db`: the URL must start with the protocol `mysql://`.
+  -->  schema.prisma:3
+   | 
+ 2 | 			provider = "mysql"
+ 3 | 			url      = "planetscale://root:shaoxiong123456@8.142.115.204:3306/blog1231?sslaccept=strict"
+   | 
+
+Usage:
+  wunderctl introspect planetscale [flags]
+
+Examples:
+wunderctl introspect planetscale mysql://xxx:pscale_pw_xxx@fwsbiox1njhc.eu-west-3.psdb.cloud/test?sslaccept=strict
+
+Flags:
+  -h, --help   help for planetscale
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 3/5
+database introspection failed: error: Error validating datasource `db`: the URL must start with the protocol `mysql://`.
+  -->  schema.prisma:3
+   | 
+ 2 | 			provider = "mysql"
+ 3 | 			url      = "planetscale://root:shaoxiong123456@8.142.115.204:3306/blog1231?sslaccept=strict"
+   | 
+
+Error: error: Error validating datasource `db`: the URL must start with the protocol `mysql://`.
+  -->  schema.prisma:3
+   | 
+ 2 | 			provider = "mysql"
+ 3 | 			url      = "planetscale://root:shaoxiong123456@8.142.115.204:3306/blog1231?sslaccept=strict"
+   | 
+
+Usage:
+  wunderctl introspect planetscale [flags]
+
+Examples:
+wunderctl introspect planetscale mysql://xxx:pscale_pw_xxx@fwsbiox1njhc.eu-west-3.psdb.cloud/test?sslaccept=strict
+
+Flags:
+  -h, --help   help for planetscale
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 4/5
+database introspection failed: error: Error validating datasource `db`: the URL must start with the protocol `mysql://`.
+  -->  schema.prisma:3
+   | 
+ 2 | 			provider = "mysql"
+ 3 | 			url      = "planetscale://root:shaoxiong123456@8.142.115.204:3306/blog1231?sslaccept=strict"
+   | 
+
+Error: error: Error validating datasource `db`: the URL must start with the protocol `mysql://`.
+  -->  schema.prisma:3
+   | 
+ 2 | 			provider = "mysql"
+ 3 | 			url      = "planetscale://root:shaoxiong123456@8.142.115.204:3306/blog1231?sslaccept=strict"
+   | 
+
+Usage:
+  wunderctl introspect planetscale [flags]
+
+Examples:
+wunderctl introspect planetscale mysql://xxx:pscale_pw_xxx@fwsbiox1njhc.eu-west-3.psdb.cloud/test?sslaccept=strict
+
+Flags:
+  -h, --help   help for planetscale
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 5/5
+database introspection failed: Can't reach database server at `8.142.115.204`:`3306`
+
+Please make sure your database server is running at `8.142.115.204`:`3306`.
+Error: Can't reach database server at `8.142.115.204`:`3306`
+
+Please make sure your database server is running at `8.142.115.204`:`3306`.
+Usage:
+  wunderctl introspect postgresql [flags]
+
+Examples:
+wunderctl introspect postgresql postgresql://user:password@localhost:5432/database?schema=public
+
+Flags:
+  -h, --help   help for postgresql
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 1/5
+database introspection failed: Can't reach database server at `8.142.115.204`:`3306`
+
+Please make sure your database server is running at `8.142.115.204`:`3306`.
+Error: Can't reach database server at `8.142.115.204`:`3306`
+
+Please make sure your database server is running at `8.142.115.204`:`3306`.
+Usage:
+  wunderctl introspect postgresql [flags]
+
+Examples:
+wunderctl introspect postgresql postgresql://user:password@localhost:5432/database?schema=public
+
+Flags:
+  -h, --help   help for postgresql
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 2/5
+database introspection failed: Can't reach database server at `8.142.115.204`:`3306`
+
+Please make sure your database server is running at `8.142.115.204`:`3306`.
+Error: Can't reach database server at `8.142.115.204`:`3306`
+
+Please make sure your database server is running at `8.142.115.204`:`3306`.
+Usage:
+  wunderctl introspect postgresql [flags]
+
+Examples:
+wunderctl introspect postgresql postgresql://user:password@localhost:5432/database?schema=public
+
+Flags:
+  -h, --help   help for postgresql
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 3/5
+database introspection failed: Can't reach database server at `8.142.115.204`:`3306`
+
+Please make sure your database server is running at `8.142.115.204`:`3306`.
+Error: Can't reach database server at `8.142.115.204`:`3306`
+
+Please make sure your database server is running at `8.142.115.204`:`3306`.
+Usage:
+  wunderctl introspect postgresql [flags]
+
+Examples:
+wunderctl introspect postgresql postgresql://user:password@localhost:5432/database?schema=public
+
+Flags:
+  -h, --help   help for postgresql
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 4/5
+database introspection failed: Can't reach database server at `8.142.115.204`:`3306`
+
+Please make sure your database server is running at `8.142.115.204`:`3306`.
+Error: Can't reach database server at `8.142.115.204`:`3306`
+
+Please make sure your database server is running at `8.142.115.204`:`3306`.
+Usage:
+  wunderctl introspect postgresql [flags]
+
+Examples:
+wunderctl introspect postgresql postgresql://user:password@localhost:5432/database?schema=public
+
+Flags:
+  -h, --help   help for postgresql
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 5/5
+database introspection failed: Error parsing connection string: Conversion error: invalid digit found in string in database URL
+Error: Error parsing connection string: Conversion error: invalid digit found in string in database URL
+Usage:
+  wunderctl introspect sqlserver [flags]
+
+Examples:
+Introspect sqlserver sqlserver://localhost:1433;database=wundergraph;schema=wg;user=SA;password=secure_Password;encrypt=true;trustServerCertificate=true
+
+Flags:
+  -h, --help   help for sqlserver
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 1/5
+database introspection failed: Error parsing connection string: Conversion error: invalid digit found in string in database URL
+Error: Error parsing connection string: Conversion error: invalid digit found in string in database URL
+Usage:
+  wunderctl introspect sqlserver [flags]
+
+Examples:
+Introspect sqlserver sqlserver://localhost:1433;database=wundergraph;schema=wg;user=SA;password=secure_Password;encrypt=true;trustServerCertificate=true
+
+Flags:
+  -h, --help   help for sqlserver
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 2/5
+database introspection failed: Error parsing connection string: Conversion error: invalid digit found in string in database URL
+Error: Error parsing connection string: Conversion error: invalid digit found in string in database URL
+Usage:
+  wunderctl introspect sqlserver [flags]
+
+Examples:
+Introspect sqlserver sqlserver://localhost:1433;database=wundergraph;schema=wg;user=SA;password=secure_Password;encrypt=true;trustServerCertificate=true
+
+Flags:
+  -h, --help   help for sqlserver
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 3/5
+database introspection failed: Error parsing connection string: Conversion error: invalid digit found in string in database URL
+Error: Error parsing connection string: Conversion error: invalid digit found in string in database URL
+Usage:
+  wunderctl introspect sqlserver [flags]
+
+Examples:
+Introspect sqlserver sqlserver://localhost:1433;database=wundergraph;schema=wg;user=SA;password=secure_Password;encrypt=true;trustServerCertificate=true
+
+Flags:
+  -h, --help   help for sqlserver
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 4/5
+database introspection failed: Error parsing connection string: Conversion error: invalid digit found in string in database URL
+Error: Error parsing connection string: Conversion error: invalid digit found in string in database URL
+Usage:
+  wunderctl introspect sqlserver [flags]
+
+Examples:
+Introspect sqlserver sqlserver://localhost:1433;database=wundergraph;schema=wg;user=SA;password=secure_Password;encrypt=true;trustServerCertificate=true
+
+Flags:
+  -h, --help   help for sqlserver
+
+Global Flags:
+  -c, --config string            config is the path to the wundergraph config (default "generated/wundergraph.config.json")
+      --debug                    enables the debug mode so that all requests and responses will be logged
+  -e, --env string               allows you to set environment variables from an env file (default ".env")
+      --json-encoded-logging     switches the logging to json encoded logging
+  -l, --loglevel string          sets the log level (default "info")
+  -o, --outfile string           If set, the introspection result will be written to the specified file
+      --wundergraph-dir string   path to your .wundergraph directory (default ".")
+
+
+retrying database introspection 5/5
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "introspection of sqlite database failed after 5 attempts, make sure it's accessible at: file://root:shaoxiong123456@8.142.115.204:3306/blog1231
+    Did you forget to add tables to the database? Make sure, you've run your initial migration.
+    The introspection fails if there are no tables.
+    Are you using a custom database schema? Make sure it's selected in the database URL.
+    Please restart "wunderctl up" once the DB is running.
+    ".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+2022-08-23T14:55:47+08:00	error	Config Bundler: error executing script	{"bundler": "config", "error": "exit status 1"}

@@ -1,0 +1,8 @@
+mutation ($id: Int, $title: String, $content: String, $types: Int){
+  EditBlogById: oauthDB_updateManyBlogs(
+    where: {id:{equals:$id}},
+    data: {title: {set: $title}, content: {set: $content}, types: {set: $types}}
+  ){
+    count
+  }
+}

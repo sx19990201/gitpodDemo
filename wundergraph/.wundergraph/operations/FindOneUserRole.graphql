@@ -1,0 +1,5 @@
+query($email:String){
+  FindOneUserRoleById : oauthDB_findFirstuserRole(where:{email:{equals:$email}}){
+    id
+  }
+}
